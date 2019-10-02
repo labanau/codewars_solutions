@@ -1,3 +1,3 @@
 # codewars_solutions
 
-**Split into Kyu levels 1-8
+Split into Kyu levels 1-8
